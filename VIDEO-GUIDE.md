@@ -1,4 +1,4 @@
-# Video Snippets Guide für Coach-Rafael
+# Video Snippets Guide für Coach-Raffael
 
 ## 📁 Ordnerstruktur
 

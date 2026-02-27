@@ -123,4 +123,4 @@ document.querySelectorAll('a[target="_blank"]').forEach(link => {
     });
 });
 
-console.log('🚀 Coach Rafael Website loaded successfully!');
+console.log('🚀 Coach Raffael Website loaded successfully!');

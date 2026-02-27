@@ -1,10 +1,10 @@
-# Coach Rafael - IT Coaching & Mentoring
+# Coach Raffael - IT Coaching & Mentoring
 
 Professionelle Landingpage für IT-Coaching und Mentoring Services.
 
 ## 🚀 Live Demo
 
-Nach dem Deployment verfügbar unter: `https://dein-username.github.io/Coach-Rafael/`
+Nach dem Deployment verfügbar unter: `https://dein-username.github.io/Coach-Raffael/`
 
 ## 📋 Inhalt
 
@@ -25,7 +25,7 @@ Nach dem Deployment verfügbar unter: `https://dein-username.github.io/Coach-Raf
 ## 📁 Struktur
 
 ```
-Coach-Rafael/
+Coach-Raffael/
 ├── index.html              # Hauptseite
 ├── styles.css              # Stylesheet
 ├── script.js               # JavaScript Funktionen
@@ -40,7 +40,7 @@ Coach-Rafael/
 ### Schritt 1: Repository erstellen
 
 1. Gehe zu [github.com/new](https://github.com/new)
-2. Repository-Name: `Coach-Rafael`
+2. Repository-Name: `Coach-Raffael`
 3. Wähle "Public"
 4. Klicke "Create repository"
 
@@ -48,8 +48,8 @@ Coach-Rafael/
 
 ```bash
 # Lokalen Ordner erstellen
-git clone https://github.com/dein-username/Coach-Rafael.git
-cd Coach-Rafael
+git clone https://github.com/dein-username/Coach-Raffael.git
+cd Coach-Raffael
 
 # Alle Dateien kopieren (aus diesem Template)
 # Dann:
@@ -105,7 +105,7 @@ Ersetze den Platzhalter im About-Bereich:
 ```html
 <!-- Zeile ~94 -->
 <div class="about-image-placeholder">
-    <img src="dein-bild.jpg" alt="Rafael">
+    <img src="dein-bild.jpg" alt="Raffael">
 </div>
 ```
 
@@ -121,10 +121,10 @@ Ersetze den Platzhalter im About-Bereich:
 
 ## 📞 Kontakt
 
-- Email: contact@coach-rafael.de
-- LinkedIn: /in/coach-rafael
-- GitHub: /coach-rafael
+- Email: contact@coach-raffael.de
+- LinkedIn: /in/coach-raffael
+- GitHub: /coach-raffael
 
 ---
 
-**© 2025 Coach Rafael - Alle Rechte vorbehalten**
+**© 2025 Coach Raffael - Alle Rechte vorbehalten**
